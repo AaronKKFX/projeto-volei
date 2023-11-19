@@ -40,3 +40,6 @@ body{
 #cardMasc{
     border-radius: 1%; max-width: 98%; margin: 1%; border: 2px solid chocolate;
 }
+#cardFem{
+    border-radius: 1%; max-width: 98%; margin: 1%; border: 2px solid chocolate;
+}
